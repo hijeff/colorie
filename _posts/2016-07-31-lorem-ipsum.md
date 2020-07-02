@@ -7,3 +7,4 @@ tags:
 - css
 
 ---
+[transitions-timing.mp4](/uploads/transitions-timing.mp4 "transitions-timing.mp4")
